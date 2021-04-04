@@ -1,0 +1,6 @@
+canvas {
+    background-image: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
+}
+body {
+    overflow: hidden; /* Hide scrollbars */
+}
